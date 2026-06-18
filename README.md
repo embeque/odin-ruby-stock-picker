@@ -4,3 +4,4 @@ A method #stock_picker that takes in an array of stock prices, one for each hypo
 - Pay attention to edge cases like when the lowest day is the last day or the highest day is the first day.  
 
 ### Implemetation Details  
+- used the exhaustive enumeration method to find all the maximum profit from all the possible profits
